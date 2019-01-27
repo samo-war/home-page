@@ -62,11 +62,10 @@ p {
   background-position: center top;
   grid-area: b;
   color: #fff;
-
 }
+
 .grid-item-3 {
   min-height: 10vh;
-
   background-image: url('https://images.pexels.com/photos/242433/pexels-photo-242433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
   background-position: center center;
 
@@ -172,6 +171,7 @@ p {
   background-image: url(../assets/fb.png);
 }
 
+
 .page-footer {
   background-color: #929fba;
 }
@@ -209,8 +209,6 @@ p {
   .grid-item-3 {
     min-width: 40vw;
   }
-
-
 }
 
 /* @media (min-width: 800px) {
